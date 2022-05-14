@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1054305442428",
+    "project_id": "weather-app-4e688",
+    "storage_bucket": "weather-app-4e688.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054305442428:android:35fa19a6ffd7511643c7f9",
+        "android_client_info": {
+          "package_name": "com.Elzoka.WeatherApp.weather_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054305442428-tu34kiiab55vvksdmvqcleoo2on4ur1m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc4KlfbV9clVbYlaCj90JHMhRwjhpysuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054305442428-tu34kiiab55vvksdmvqcleoo2on4ur1m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
